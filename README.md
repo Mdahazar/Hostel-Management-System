@@ -3,7 +3,6 @@
 🚀 Features
 
 
-
 Complete CRUD Operations
 
 Add, update, delete, and view student marks seamlessly.
@@ -22,10 +21,9 @@ Generate meaningful reports, including:
 
 🏆 Top N students based on total marks
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Input Validation
-
-
-
 
 ✅ Client-side (HTML5, JavaScript)
 
@@ -43,10 +41,9 @@ Database Integration
 
 MySQL backend with JDBC connection pooling
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🗃️ Database Schema
-
 
 
 CREATE TABLE HostelStudents (
@@ -57,6 +54,8 @@ AdmissionDate DATE,
 FeesPaid DECIMAL(10,2),
 PendingFees DECIMAL(10,2)
 );
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📋 Prerequisites
 
@@ -72,6 +71,7 @@ MySQL JDBC Driver (mysql-connector-java)
 
 Web Browser: Chrome, Firefox, or Edge
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 | Module Name       | Description                               |
 | ----------------- | ----------------------------------------- |
@@ -82,9 +82,9 @@ Web Browser: Chrome, Firefox, or Edge
 | `MarkReports.jsp` | Generate dynamic reports                  |
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 🎨 UI Highlights
-
-
 
 Clean layout using Bootstrap cards & tables
 
@@ -94,11 +94,9 @@ Real-time form feedback and hover effects
 
 Consistent font and spacing (Google Fonts – Poppins)
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🔧 Technologies Used
-
-
 
 Frontend: HTML, CSS, JSP, Bootstrap
 
@@ -108,12 +106,9 @@ Database: MySQL
 
 Server: Apache Tomcat
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Project Structure:
-
-
-
 
 HostelWebApp/
 ├── WebContent/
