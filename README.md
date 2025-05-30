@@ -164,3 +164,20 @@ HostelWebApp/
 │ └── ReportCriteriaServlet.java
 
 └── WEB-INF/web.xml
+
+
+🖼️ Screenshots
+
+![image alt](https://github.com/Mdahazar/Hostel-Management-System/blob/main/output_screenshots/homepage.png)
+
+![image alt](https://github.com/Mdahazar/Hostel-Management-System/blob/main/output_screenshots/addstudents.png)
+
+![image alt](https://github.com/Mdahazar/Hostel-Management-System/blob/main/output_screenshots/updatestudents.png)
+
+![image alt](https://github.com/Mdahazar/Hostel-Management-System/blob/main/output_screenshots/deletestudents.png)
+
+![image alt](https://github.com/Mdahazar/Hostel-Management-System/blob/main/output_screenshots/viewstudents.png)
+
+![image alt](https://github.com/Mdahazar/Hostel-Management-System/blob/main/output_screenshots/viewstudents.png)
+
+
